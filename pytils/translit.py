@@ -95,6 +95,13 @@ TRANSTABLE = (
         (u"ч", u"ch"),
         (u"ш", u"sh"),
         (u"ы", u"yi"),
+        
+        # ukrainian
+        (u"ї", u"ji"),
+        (u"є", u"ye"),
+        (u"і", u"i"),
+        (u"ґ", u"g"),
+        
         (u"ю", u"yu"),
         (u"я", u"ya"),
         # one-symbol replacements
